@@ -1,24 +1,47 @@
 ## Windows 參考範例 
+
 - (https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/)
+
 - (https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/cc731200(v=ws.11)?redirectedfrom=MSDN)
+
 ## Windows 20題
-- netstat
-- Ping
-- pathping
-- tracert
-- Assoc
-- Cipher
-- Ipconfig
-- PathPing
-- Tracert
-- Shutdown
-- Tasklist
-- Chkdsk
-- schtasks
-- Systeninfo
-- Driverquery
-- logman
-- logman create
-- makecab
-- manage-bde
-- openfiles
+
+- 1.netstat
+
+- 2.Ping
+
+- 3.pathping
+
+- 4.tracert
+
+- 5.Assoc
+
+- 6.Cipher
+
+- 7.Ipconfig
+
+- 8.PathPing
+
+- 9.Tracert
+
+- 10.Shutdown
+
+- 11.Tasklist
+
+- 12.Chkdsk
+
+- 13.schtasks
+
+- 14.Systeninfo
+
+- 15.Driverquery
+
+- 16.logman
+
+- 17.logman create
+
+- 18.makecab
+
+- 19.manage-bde
+
+- 20.openfiles
